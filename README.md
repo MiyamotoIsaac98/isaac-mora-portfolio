@@ -6,7 +6,7 @@ Welcome to my portfolio! Here you will find a collection of my development, prog
 
 ## Sobre mí / About Me
 
-Soy un estudiante de Física con habilidades avanzadas en programación y desarrollo web. Estoy buscando oportunidades de freelancing en Cuba y tengo experiencia en diferentes áreas de la física y matematica.
+Soy un estudiante de Física con habilidades avanzadas en programación y desarrollo web. Estoy buscando oportunidades de freelancing en Cuba y tengo experiencia en diferentes áreas de la física y las matemática.
 
 I am a Physics student with advanced skills in programming and web development. I am looking for freelancing opportunities in Cuba and have experience in various areas of physics and mathematics.
 
