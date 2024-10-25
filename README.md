@@ -39,7 +39,7 @@ Puedes descargar mi CV aquí: [Curriculum Vitae](https://github.com/MiyamotoIsaa
 You can download my CV here: [Curriculum Vitae](https://github.com/MiyamotoIsaac98/isaac-mora-portfolio/blob/main/Curriculum%20Vitae%2C%20Isaac%20Mora%2C%202024.pdf)
 
 
-
+## Contacto / Contact
 
 - **Email:** [miyamoto.isaac98@gmail.com](mailto:miyamoto.isaac98@gmail.com)
 - **Teléfono:** +53 58490741
