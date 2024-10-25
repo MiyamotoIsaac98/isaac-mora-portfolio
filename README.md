@@ -35,16 +35,16 @@ I am a Physics student with advanced skills in programming and web development. 
 
 ## CV
 
-Puedes descargar mi CV aquí: [Curriculum Vitae](link_a_tu_cv)  
-You can download my CV here: [Curriculum Vitae](link_to_your_cv)
+Puedes descargar mi CV aquí: [Curriculum Vitae](https://github.com/MiyamotoIsaac98/isaac-mora-portfolio/blob/main/Curriculum%20Vitae%2C%20Isaac%20Mora%2C%202024.pdf)  
+You can download my CV here: [Curriculum Vitae](https://github.com/MiyamotoIsaac98/isaac-mora-portfolio/blob/main/Curriculum%20Vitae%2C%20Isaac%20Mora%2C%202024.pdf)
 
 
-## Contacto / Contact
 
-- **Email:** miyamoto.isaac98@gmail.com
+
+- **Email:** [miyamoto.isaac98@gmail.com](mailto:miyamoto.isaac98@gmail.com)
 - **Teléfono:** +53 58490741
 
-- **Email:** miyamoto.isaac98@gmail.com
+- **Email:** [miyamoto.isaac98@gmail.com](mailto:miyamoto.isaac98@gmail.com)
 - **Phone:** +53 58490741
 
 ¡Gracias por visitar mi portafolio! Espero tener la oportunidad de trabajar contigo.  
