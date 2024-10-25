@@ -33,6 +33,12 @@ I am a Physics student with advanced skills in programming and web development. 
 3. **[Nombre del Proyecto 3]** - Breve descripción en español.  
    **[Project Name 3]** - Brief description in English.
 
+## CV
+
+Puedes descargar mi CV aquí: [Curriculum Vitae](link_a_tu_cv)  
+You can download my CV here: [Curriculum Vitae](link_to_your_cv)
+
+
 ## Contacto / Contact
 
 - **Email:** miyamoto.isaac98@gmail.com
